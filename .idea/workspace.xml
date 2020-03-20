@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5be5556c-283f-4f96-bfd3-e695f57f6f6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLEWVuNABmOjFdwLCW6CI9x1G9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pattern_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\yiluzhang\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pattern_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\yiluzhang\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5be5556c-283f-4f96-bfd3-e695f57f6f6d" name="Default Changelist" comment="" />
+      <created>1584610006203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584610006203</updated>
+      <workItem from="1584610023180" duration="20826000" />
+      <workItem from="1584665146743" duration="16368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584613437972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584613437972" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584613431543">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584613431543" />
+    <state width="1286" height="296" key="GridCell.Tab.0.bottom" timestamp="1584685884638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584685884638" />
+    <state width="1286" height="296" key="GridCell.Tab.0.center" timestamp="1584685884637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="296" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584685884637" />
+    <state width="1286" height="296" key="GridCell.Tab.0.left" timestamp="1584685884637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="296" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584685884637" />
+    <state width="1286" height="296" key="GridCell.Tab.0.right" timestamp="1584685884637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="296" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584685884637" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pattern_recognition$main.coverage" NAME="main Coverage Results" MODIFIED="1584684658089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
